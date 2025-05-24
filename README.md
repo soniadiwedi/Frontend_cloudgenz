@@ -4,7 +4,7 @@ A responsive product catalog web application built with **React**, **React Route
 
 ## 🌐 Live Demo
 
-👉 [View Deployed App](https://frontend-cloudgenz-3plyzas4c-soniadiwedi1998gmailcoms-projects.vercel.app/)
+👉 [[View Deployed App](https://frontend-cloudgenz-3plyzas4c-soniadiwedi1998gmailcoms-projects.vercel.app/)](https://frontend-cloudgenz.vercel.app/)
 
 ## 🚀 Features
 
