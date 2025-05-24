@@ -45,6 +45,8 @@ A responsive product catalog web application built with **React**, **React Route
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/product-catalog.git
-   cd product-catalog
+   npm install
+   npm run dev
+
 
 
