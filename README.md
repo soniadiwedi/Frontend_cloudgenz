@@ -1,12 +1,50 @@
-# React + Vite
+# 🛍️ Responsive Product Catalog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive product catalog web application built with **React**, **React Router**, and **Tailwind CSS**, consuming data from the [Fake Store API](https://fakestoreapi.com). This project demonstrates component-based architecture, API integration, routing, filtering, and responsive design.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [View Deployed App](https://frontend-cloudgenz-3plyzas4c-soniadiwedi1998gmailcoms-projects.vercel.app/)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧾 **Product List Page**
+  - Fetches product data from API
+  - Displays products in a responsive grid
+  - Category filter in a left sidebar
+  - Search bar in the top navbar
+  - Loading and error states
+
+- 🔍 **Product Detail Page**
+  - Displays detailed product information
+  - Back to Products navigation
+  - Fully responsive layout
+
+- 🧭 **Routing**
+  - Implemented using `React Router`
+  - Navigates between product list and detail pages
+
+## 🧑‍💻 Technologies Used
+
+- React
+- React Router
+- Tailwind CSS
+- Fake Store API
+
+
+## 📱 Responsive Layout
+
+| Device   | Products Per Row |
+|----------|------------------|
+| Desktop  | 4                |
+| Tablet   | 2                |
+| Mobile   | 1                |
+
+## 🧪 How to Run Locally
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/product-catalog.git
+   cd product-catalog
+
+
