@@ -1,4 +1,4 @@
-# 🛍️ Responsive Product Catalog
+# 🛍️ Product Catalog
 
 A responsive product catalog web application built with **React**, **React Router**, and **Tailwind CSS**, consuming data from the [Fake Store API](https://fakestoreapi.com). This project demonstrates component-based architecture, API integration, routing, filtering, and responsive design.
 
@@ -15,10 +15,14 @@ A responsive product catalog web application built with **React**, **React Route
   - Search bar in the top navbar
   - Loading and error states
 
+![image](https://github.com/user-attachments/assets/30012d0f-2929-456a-b911-b6fde2ffc2d8)
+
 - 🔍 **Product Detail Page**
   - Displays detailed product information
   - Back to Products navigation
   - Fully responsive layout
+
+![image](https://github.com/user-attachments/assets/ce437bf7-ea7c-4f4c-8d93-0b4cd410009c)
 
 - 🧭 **Routing**
   - Implemented using `React Router`
